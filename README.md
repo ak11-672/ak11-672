@@ -11,4 +11,4 @@ My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud eng
 
   In each repo,you can find mini projects,tasks and concepts that I have practiced.  
 
-    Except these there are other miscellaneous languages/tools/projects which I have worked on that have their own dedicated repo.
+  -> Except these there are other miscellaneous languages/tools/projects which I have worked on that have their own dedicated repo.
