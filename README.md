@@ -1,4 +1,4 @@
-## Hi,hope you're having a nice day and thank you for visiting my github profile. 👋
+## Hi,hope you're having a nice day and thank you for visiting my github profile 👋
 My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud engineering  
 1-Python Programming  
 2-Containerization & Orchestration (Docker & Kubernetes)  
@@ -9,4 +9,6 @@ My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud eng
 7- Infrastructure as Code ( Terraform & Ansible )  
 8- Computer Science and DevOps foundational concepts  
 
-  In each repo,you can find mini projects,tasks and concepts that I have practiced.
+  In each repo,you can find mini projects,tasks and concepts that I have practiced.  
+
+    Except these there are other miscellaneous languages/tools/projects which I have worked on that have their own dedicated repo.
