@@ -1,6 +1,8 @@
 ## Hi there 👋
 My profile is organized as per the 8 key Knowledge Domains of DevOps/Cloud engineeering.
+
 1- Python Programming
+
 2- Containerization & Orchestration (Docker & Kubernetes)
 3- CI-CD Pipelines (Jenkins & Github Actions)
 4- Monitoring & Observability ( Prometheus & Grafana )
