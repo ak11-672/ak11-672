@@ -1,4 +1,4 @@
-## Hi,hope you're having a nice day and thank you for visiting my github profile 👋
+## Hi,hope you're having a nice day and thank you for visiting my profile 👋
 My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud engineering  
 1-Python Programming  
 2-Containerization & Orchestration (Docker & Kubernetes)  
