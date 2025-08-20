@@ -15,4 +15,4 @@ My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud eng
     
   -> New tools/languages that I continue to wrestle with on a daily basis will be placed in their own repos.
     
-  -> Tool/language based projects are in put in their respective repos whereas Mega DevOps/Cloud Projects that various different technologies are mentioned seperately.
+  -> Tool/language based projects are in put in their respective repos whereas Mega DevOps/Cloud Projects that utilize various different technologies are mentioned seperately.
