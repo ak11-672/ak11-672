@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My profile is organized as per the 8 key Knowledge Domains
 <!--
 **ak11-672/ak11-672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
