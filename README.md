@@ -7,4 +7,6 @@ My Portfolio is organized as per the 8 Key Knowledge Domains of DevOps/Cloud eng
 5- Linux System Administration and Bash Scripting  
 6- AWS Cloud  
 7- Infrastructure as Code ( Terraform & Ansible )  
-8- Computer Science and DevOps foundational concepts
+8- Computer Science and DevOps foundational concepts  
+
+  In each repo,you can find mini projects,tasks and concepts that I have practiced.
